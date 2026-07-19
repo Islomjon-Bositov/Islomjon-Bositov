@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Islomjon%20Bositov&fontSize=50&fontColor=fff)
+
   # Hello👋 my friend, I'm Islomjon!
 
 ### Frontend Developer | From Uzbekistan
