@@ -1,6 +1,8 @@
+<div align="center" >
 # Hello👋 my friend, I'm Islomjon!
 
 ### Frontend Developer | From Uzbekistan
+</div>
 
 ---
 
