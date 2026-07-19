@@ -13,7 +13,6 @@
 
 - **Language:** JavaScript
 - **Frontend:** React, HTML, CSS
-- **Backend:** Node.js
 - **Tools:** Git, VS Code
 
 ---
