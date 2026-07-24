@@ -12,8 +12,8 @@
 ## My Skills
 
 - **Language:** JavaScript
-- **Frontend:** React, HTML, CSS
-- **Tools:** Git, VS Code
+- **Frontend:** React, HTML and CSS
+- **Tools:** Git and VS Code
 
 ---
 
